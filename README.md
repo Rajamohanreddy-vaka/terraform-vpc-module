@@ -28,13 +28,13 @@ module "vpc" {
 
  ## Features
 
-•	Creates a VPC with configurable CIDR block and DNS support
-•	Supports public, private, and database subnet tiers
-•	Internet Gateway for public subnet access
-•	NAT Gateway with Elastic IP for outbound access from private subnets
-•	Separate route tables for each subnet tier
-•	Optional VPC peering support
-•	Consistent tagging across all resources
+- Creates a VPC with configurable CIDR block and DNS support
+-	Supports public, private, and database subnet tiers
+-	Internet Gateway for public subnet access
+-	NAT Gateway with Elastic IP for outbound access from private subnets
+-	Separate route tables for each subnet tier
+-	Optional VPC peering support
+-	Consistent tagging across all resources
 
 ---
 ```
