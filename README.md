@@ -24,9 +24,9 @@ module "vpc" {
   is_peering_required = false
 }
 
----
+```
 
- Features
+ ## Features
 
 •	Creates a VPC with configurable CIDR block and DNS support
 •	Supports public, private, and database subnet tiers
@@ -37,9 +37,10 @@ module "vpc" {
 •	Consistent tagging across all resources
 
 ---
+```
+```
 
-
-Resources Created
+## Resources Created
 
 | Name | Type |
 |------|------|
@@ -62,7 +63,9 @@ Resources Created
 
 ---
 
-Inputs
+```
+```
+## Inputs
 
 | Name | Description | Type | Required |
 |------|------------|------|----------|
@@ -76,7 +79,10 @@ Inputs
 
 ---
 
-Outputs
+```
+```
+
+## Outputs
 
 | Name | Description |
 |------|------------|
@@ -86,8 +92,10 @@ Outputs
 | database_subnet_ids | Database subnet IDs |
 
 ---
+```
+```
 
-Naming Convention
+## Naming Convention
 
 Resources follow this format:
 
@@ -100,3 +108,4 @@ roboshop-dev-private-us-east-1b
 roboshop-dev-database-us-east-1a
 
 ---
+```
