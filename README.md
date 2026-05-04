@@ -110,6 +110,7 @@ Example:
 ---
 ```
 ```
+## Architecture
 ![VPC_Module](./images/vpc_module..png)
 
 ```
