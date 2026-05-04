@@ -109,3 +109,5 @@ roboshop-dev-database-us-east-1a
 
 ---
 ```
+
+![VPC_Module](./images/vpc_module.png)
