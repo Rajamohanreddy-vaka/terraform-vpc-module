@@ -1,4 +1,4 @@
-<img width="1998" height="1700" alt="image" src="https://github.com/user-attachments/assets/e0b51858-895c-4eff-8d49-75c159819890" />**Terraform VPC Module**
+**Terraform VPC Module**
 
 A reusable Terraform module to provision an AWS VPC with public, private, and database subnets, along with required networking components like Internet Gateway, NAT Gateway, and route tables.
 
